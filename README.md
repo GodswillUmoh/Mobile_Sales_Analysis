@@ -72,7 +72,7 @@ FROM mobile_sales;
 [Link to Chart](https://ibb.co/gLtHdFks)
 
 [View my Linkedin Profile](https://www.linkedin.com/in/godswill-umoh)
-(https://www.linkedin.com/in/godswill-umoh)
+
 
 
 
