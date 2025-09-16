@@ -54,6 +54,8 @@ FROM mobile_sales;
 
 ```
 
+## Visualization
+### Pivot Tables
 
 
 
