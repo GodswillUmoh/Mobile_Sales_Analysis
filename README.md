@@ -65,6 +65,7 @@ FROM mobile_sales;
 
 ### PowerBI Dashboard
 
+![3](https://github.com/user-attachments/assets/8839fd03-c17d-4e02-a803-1d3db6a48e0a)
 
 
 
