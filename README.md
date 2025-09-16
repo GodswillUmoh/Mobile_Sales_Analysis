@@ -61,6 +61,8 @@ FROM mobile_sales;
 
 ### Charts
 
+<img width="1394" height="594" alt="sales dashboard" src="https://github.com/user-attachments/assets/572433d3-6949-4457-8a7a-8a5010bfac71" />
+
 
 
 
