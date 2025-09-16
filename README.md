@@ -8,7 +8,11 @@
 ## Contents
 + [Project Overview](#Project-Overview) 
 
-| [Data Source](#Data-Source) | [Tools Used](#Tools Used) | Table Outlay | Query Langaues (SQL) | Visualization
++ [Data Source](#Data-Source) |
++  [Tools Used](#Tools-Used) |
++  [Table Outlay](#Table-Outlay) |
++  [Query Langaues (SQL)](#Query-Langaue:-(SQL)) |
++  [Visualization](#Visualization)
 
 ---
 
